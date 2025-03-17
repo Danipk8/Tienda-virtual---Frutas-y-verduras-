@@ -1,0 +1,196 @@
+[
+    {
+        "id": 1,
+        "nombre": "Pomarosa",
+        "precio": 5000,
+        "precioUnidad": 1000,
+        "precioLibra": 10000,
+        "precioKilo": 20000,
+        "imagen": "img/pomarosa.png",
+        "descripcion": "La poma rosa es una fruta exótica de aroma floral y sabor dulce con un toque ligeramente ácido. Su pulpa jugosa y refrescante la convierte en una opción perfecta para consumir fresca o en preparaciones como jugos y postres.",
+        "categoria": "frutas",
+        "subcategoria": "importadas",
+        "destacado": true
+    },
+
+    {
+        "id": 2,
+        "nombre": "Espinaca",
+        "precio": 3500,
+        "precioUnidad": 1000,
+        "precioLibra": 10000,
+        "precioKilo": 20000,
+        "precio_unidad": 1000,
+        "precio_libra": 10000,
+        "precio_kilo": 20000,
+        "imagen": "img/espinaca.png",
+        "descripcion": "La espinaca es una hoja verde llena de nutrientes, especialmente hierro, calcio y vitaminas. Se puede consumir cruda en ensaladas o cocida en diversas preparaciones.",
+        "categoria": "vegetales",
+        "subcategoria": "importadas",
+        "destacado": true
+    },
+    
+    {
+        "id": 3,
+        "nombre": "Guama",
+        "precio": 4000,
+        "precioUnidad": 1000,
+        "precioLibra": 10000,
+        "precioKilo": 20000,
+        "imagen": "img/Guama.png",
+        "descripcion": "La guama es una fruta alargada que contiene semillas envueltas en una pulpa blanca, dulce y esponjosa. Es una delicia natural, ideal para disfrutar directamente de la cáscara.",
+        "categoria": "frutas",
+        "subcategoria": "nacionales",
+        "destacado": true
+    },
+
+    {
+        "id": 4,
+        "nombre": "Brocoli",
+        "precio": 3500,
+        "precioUnidad": 1000,
+        "precioLibra": 10000,
+        "precioKilo": 20000,
+        "precio_unidad": 1000,
+        "precio_libra": 10000,
+        "precio_kilo": 20000,
+        "imagen": "img/brocoli.png",
+        "descripcion": "El brócoli es un vegetal crucífero lleno de antioxidantes y fibra. Su sabor suave y textura crujiente lo hacen ideal para salteados, ensaladas o al vapor.",
+        "categoria": "vegetales",
+        "subcategoria": "importadas",
+        "destacado": true
+    },
+    {
+        "id": 5,
+        "nombre": "Mamoncillo",
+        "precio": 4500,
+        "precioUnidad": 1000,
+        "precioLibra": 10000,
+        "precioKilo": 20000,
+        "imagen": "img/mamoncillo.png",
+        "descripcion": "El mamoncillo es una pequeña fruta tropical de cáscara verde y pulpa anaranjada, jugosa y agridulce. Se come succionando la pulpa que rodea la semilla, siendo un snack natural y refrescante.",
+        "categoria": "frutas",
+        "subcategoria": "importadas",
+        "destacado": false
+    },
+
+    {
+        "id": 6,
+        "nombre": "Lechuga",
+        "precio": 3500,
+        "precioUnidad": 1000,
+        "precioLibra": 10000,
+        "precioKilo": 20000,
+        "imagen": "img/lechuga.png",
+        "descripcion": "La lechuga es una de las hojas más versátiles, utilizada como base para ensaladas frescas. Ligera y crujiente, es perfecta para acompañar todo tipo de platillos.",
+        "categoria": "vegetales",
+        "subcategoria": "importadas",
+        "destacado": true
+    },
+
+
+
+    {
+        "id": 7,
+        "nombre": "Sapote",
+        "precio": 3000,
+        "precioUnidad": 1000,
+        "precioLibra": 10000,
+        "precioKilo": 20000,
+        "imagen": "img/sapote.png",
+        "descripcion": "El sapote es una fruta tropical de pulpa suave y cremosa con un sabor dulce que recuerda al zapallo y la miel. Perfecto para consumir solo, en batidos o como ingrediente en postres.",
+        "categoria": "frutas",
+        "subcategoria": "nacionales",
+        "destacado": false
+    },
+
+
+    {
+        "id": 8,
+        "nombre": "Zanahoria",
+        "precio": 3500,
+        "precioUnidad": 1000,
+        "precioLibra": 10000,
+        "precioKilo": 20000,
+        "precio_unidad": 1000,
+        "precio_libra": 10000,
+        "precio_kilo": 20000,
+        "imagen": "img/zanahoria.png",
+        "descripcion": "La zanahoria es una raíz dulce y crujiente, rica en betacarotenos y vitamina A. Ideal para comer cruda, cocida, en jugos o como snack saludable.",
+        "categoria": "frutas",
+        "subcategoria": "importadas",
+        "destacado": true
+    },
+
+    {
+        "id": 9,
+        "nombre": "Uchuva",
+        "precio": 3500,
+        "precioUnidad": 1000,
+        "precioLibra": 10000,
+        "precioKilo": 20000,
+        "precio_unidad": 1000,
+        "precio_libra": 10000,
+        "precio_kilo": 20000,
+        "imagen": "img/uchuva.png",
+        "descripcion": "La uchuva es una fruta de color amarillo intenso con un equilibrio entre dulzura y acidez. Rica en antioxidantes y vitamina C, es ideal para comer sola o agregar a ensaladas y postres.",
+        "categoria": "frutas",
+        "subcategoria": "importadas",
+        "destacado": true
+    },
+
+    {
+        "id": 10,
+        "nombre": "Aguacate",
+        "precio": 3500,
+        "precioUnidad": 1000,
+        "precioLibra": 10000,
+        "precioKilo": 20000,
+        "precio_unidad": 1000,
+        "precio_libra": 10000,
+        "precio_kilo": 20000,
+        "imagen": "img/aguacate.png",
+        "descripcion": "El aguacate es un superalimento cremoso y nutritivo, rico en grasas saludables, vitaminas y minerales. Su versatilidad lo hace ideal para ensaladas, tostadas, guacamole y más.",
+        "categoria": "frutas",
+        "subcategoria": "importadas",
+        "destacado": true
+    },
+
+
+{
+    "id": 11,
+    "nombre": "Manzana",
+    "precio": 3500,
+    "precioUnidad": 1000,
+    "precioLibra": 10000,
+    "precioKilo": 20000,
+    "precio_unidad": 1000,
+    "precio_libra": 10000,
+    "precio_kilo": 20000,
+    "imagen": "img/manzana.png",
+    "descripcion": "La manzana e una fruta crujiente y llena de fibra disponible en diversas variedades, desde dulces hasta ligeramente ácidas. Perfecta para comer sola o en recetas saludables.",
+    "categoria": "frutas",
+    "subcategoria": "importadas",
+    "destacado": true
+},
+
+
+
+{
+    "id": 12,
+    "nombre": "Banano",
+    "precio": 3500,
+    "precioUnidad": 1000,
+    "precioLibra": 10000,
+    "precioKilo": 20000,
+    "precio_unidad": 1000,
+    "precio_libra": 10000,
+    "precio_kilo": 20000,
+    "imagen": "img/banano.png",
+    "descripcion": "El banano es una de las frutas más consumidas en el mundo por su sabor dulce, textura cremosa y alto contenido de potasio y fibra. Perfecto para un snack rápido, batidos o postres.",
+    "categoria": "frutas",
+    "subcategoria": "importadas",
+    "destacado": true
+}
+
+]
