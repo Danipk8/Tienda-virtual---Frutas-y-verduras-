@@ -37,7 +37,7 @@
         "precioUnidad": 1000,
         "precioLibra": 10000,
         "precioKilo": 20000,
-        "imagen": "img/Guama.png",
+        "imagen": "img/guama.png",
         "descripcion": "La guama es una fruta alargada que contiene semillas envueltas en una pulpa blanca, dulce y esponjosa. Es una delicia natural, ideal para disfrutar directamente de la cáscara.",
         "categoria": "frutas",
         "subcategoria": "nacionales",
