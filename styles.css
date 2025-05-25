@@ -1215,6 +1215,7 @@ cursor: pointer;
     .Seccion-confirmacion{
         text-align: center;
         padding: 30px ;
+        padding-top: 98px;
     }
 
 }
@@ -1771,7 +1772,7 @@ cursor: pointer;
 /* ✅ Sección de Información */
 .Seccion-Informacion {
     text-align: center;
-    padding: 160px 20px;
+    padding: 180px 20px;
 }
 
 /* ✅ Encabezados */
@@ -1849,7 +1850,7 @@ bottom: -13px;
 /* ✅ Contenedor Principal */
 .seccion-acercade {
     text-align: center;
-    padding: 120px 20px;
+    padding: 180px 20px;
     background-color: #f9f9f9;
 }
 
@@ -2424,7 +2425,7 @@ bottom: -13px;
     .Seccion-datos {
         width: 90%; /* Reducir el tamaño en móviles */
         padding: 20px;
-        padding-top: 150px;
+        padding-top: 182px;
     }
 
     #form-datos {
