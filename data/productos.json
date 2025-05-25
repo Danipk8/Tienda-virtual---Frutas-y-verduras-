@@ -92,7 +92,7 @@
 
     {
         "id": 7,
-        "nombre": "Sapote",
+        "nombre": "Zapote",
         "precio": 3000,
         "precioUnidad": 1000,
         "precioLibra": 10000,
@@ -117,7 +117,7 @@
         "precio_kilo": 20000,
         "imagen": "img/zanahoria.png",
         "descripcion": "La zanahoria es una raíz dulce y crujiente, rica en betacarotenos y vitamina A. Ideal para comer cruda, cocida, en jugos o como snack saludable.",
-        "categoria": "frutas",
+        "categoria": "vegetales",
         "subcategoria": "importadas",
         "destacado": true
     },
@@ -174,8 +174,6 @@
     "destacado": true
 },
 
-
-
 {
     "id": 12,
     "nombre": "Banano",
@@ -188,6 +186,177 @@
     "precio_kilo": 20000,
     "imagen": "img/banano.png",
     "descripcion": "El banano es una de las frutas más consumidas en el mundo por su sabor dulce, textura cremosa y alto contenido de potasio y fibra. Perfecto para un snack rápido, batidos o postres.",
+    "categoria": "frutas",
+    "subcategoria": "importadas",
+    "destacado": true
+},
+
+{
+    "id": 13,
+    "nombre": "Uvas",
+    "precio": 3500,
+    "precioUnidad": 1000,
+    "precioLibra": 10000,
+    "precioKilo": 20000,
+    "precio_unidad": 1000,
+    "precio_libra": 10000,
+    "precio_kilo": 20000,
+    "imagen": "img/uvas.png",
+    "descripcion": "Las uvas son frutas pequeñas y jugosas, con un sabor dulce y ligeramente ácido. Son ideales para consumir frescas, en ensaladas, jugos o como pasas en diversas preparaciones culinarias.",
+    "categoria": "frutas",
+    "subcategoria": "importadas",
+    "destacado": true
+},
+
+
+
+{
+    "id": 14,
+    "nombre": "Mandarina",
+    "precio": 3500,
+    "precioUnidad": 1000,
+    "precioLibra": 10000,
+    "precioKilo": 20000,
+    "precio_unidad": 1000,
+    "precio_libra": 10000,
+    "precio_kilo": 20000,
+    "imagen": "img/mandarina.png",
+    "descripcion": "La mandarina es una fruta cítrica de sabor dulce y refrescante, fácil de pelar y segmentar. Es perfecta para consumir sola, en ensaladas de frutas o como jugo..",
+    "categoria": "frutas",
+    "subcategoria": "importadas",
+    "destacado": true
+},
+
+
+{
+    "id": 15,
+    "nombre": "Remolacha",
+    "precio": 3500,
+    "precioUnidad": 1000,
+    "precioLibra": 10000,
+    "precioKilo": 20000,
+    "precio_unidad": 1000,
+    "precio_libra": 10000,
+    "precio_kilo": 20000,
+    "imagen": "img/remolacha.png",
+    "descripcion": "La remolacha es una raíz de color rojo intenso, con sabor dulce y terroso. Se consume cocida, en ensaladas, jugos o como ingrediente en diversas recetas.",
+    "categoria": "vegetales",
+    "subcategoria": "importadas",
+    "destacado": true
+},
+
+{
+    "id": 16,
+    "nombre": "Pepino cohombro",
+    "precio": 3500,
+    "precioUnidad": 1000,
+    "precioLibra": 10000,
+    "precioKilo": 20000,
+    "precio_unidad": 1000,
+    "precio_libra": 10000,
+    "precio_kilo": 20000,
+    "imagen": "img/pepino.png",
+    "descripcion": "El pepino cohombro es una hortaliza de sabor suave y refrescante, con alto contenido de agua. Se consume en ensaladas, jugos o como snack.",
+    "categoria": "vegetales",
+    "subcategoria": "importadas",
+    "destacado": true
+},
+
+{
+    "id": 17,
+    "nombre": "Mango",
+    "precio": 3500,
+    "precioUnidad": 1000,
+    "precioLibra": 10000,
+    "precioKilo": 20000,
+    "precio_unidad": 1000,
+    "precio_libra": 10000,
+    "precio_kilo": 20000,
+    "imagen": "img/mango.png",
+    "descripcion": "El mango es una fruta tropical de pulpa jugosa y dulce, con un aroma característico. Se consume fresco, en batidos, ensaladas o postres.",
+    "categoria": "frutas",
+    "subcategoria": "importadas",
+    "destacado": true
+},
+
+{
+    "id": 18,
+    "nombre": "Maracuyá",
+    "precio": 3500,
+    "precioUnidad": 1000,
+    "precioLibra": 10000,
+    "precioKilo": 20000,
+    "precio_unidad": 1000,
+    "precio_libra": 10000,
+    "precio_kilo": 20000,
+    "imagen": "img/maracuya.png",
+    "descripcion": "El maracuyá es una fruta tropical de sabor ácido y aroma intenso. Su pulpa se utiliza en jugos, postres y salsas.",
+    "categoria": "frutas",
+    "subcategoria": "importadas",
+    "destacado": true
+},
+{
+    "id": 19,
+    "nombre": "Guanábana",
+    "precio": 3500,
+    "precioUnidad": 1000,
+    "precioLibra": 10000,
+    "precioKilo": 20000,
+    "precio_unidad": 1000,
+    "precio_libra": 10000,
+    "precio_kilo": 20000,
+    "imagen": "img/guanabana.png",
+    "descripcion": "La guanábana es una fruta tropical de pulpa blanca y sabor dulce con notas ácidas. Se consume fresca o en jugos y postres.",
+    "categoria": "frutas",
+    "subcategoria": "importadas",
+    "destacado": true
+},
+{
+    "id": 20,
+    "nombre": "Tomate",
+    "precio": 3500,
+    "precioUnidad": 1000,
+    "precioLibra": 10000,
+    "precioKilo": 20000,
+    "precio_unidad": 1000,
+    "precio_libra": 10000,
+    "precio_kilo": 20000,
+    "imagen": "img/tomate.png",
+    "descripcion": "El tomate es una fruta de sabor ligeramente ácido y dulce, ampliamente utilizada en la cocina. Se consume crudo, cocido, en salsas y ensaladas.",
+    "categoria": "vegetales",
+    "subcategoria": "importadas",
+    "destacado": true
+},
+
+{
+    "id": 21,
+    "nombre": "Granadilla",
+    "precio": 3500,
+    "precioUnidad": 1000,
+    "precioLibra": 10000,
+    "precioKilo": 20000,
+    "precio_unidad": 1000,
+    "precio_libra": 10000,
+    "precio_kilo": 20000,
+    "imagen": "img/granadilla.png",
+    "descripcion": "La granadilla es una fruta tropical de pulpa gelatinosa y sabor dulce con un toque ácido. Se consume directamente o en jugos y postres.",
+    "categoria": "frutas",
+    "subcategoria": "importadas",
+    "destacado": true
+},
+
+{
+    "id": 22,
+    "nombre": "Durazno",
+    "precio": 3500,
+    "precioUnidad": 1000,
+    "precioLibra": 10000,
+    "precioKilo": 20000,
+    "precio_unidad": 1000,
+    "precio_libra": 10000,
+    "precio_kilo": 20000,
+    "imagen": "img/durazno.png",
+    "descripcion": "El durazno es una fruta de pulpa suave y jugosa, con sabor dulce y aroma delicado. Se consume fresco, en compotas, postres y jugos.",
     "categoria": "frutas",
     "subcategoria": "importadas",
     "destacado": true
